@@ -121,7 +121,7 @@ body {
     background-color: #d32f2f;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 400px) {
     .todo-container {
         padding: 15px;
